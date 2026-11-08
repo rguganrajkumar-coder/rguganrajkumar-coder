@@ -1,3 +1,25 @@
+
+<h2 align="center">🚀 My GitScore Dashboard</h2>
+
+<p align="center">
+  <b>Track my GitHub performance, coding activity, and developer growth.</b>
+</p>
+
+<p align="center">
+  <a href="https://gitscore.live/rguganrajkumar-coder">
+    <img
+      src="https://gitscore.live/api/badge/rguganrajkumar-coder?style=card&theme=dark"
+      alt="GitScore Dashboard"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gitscore.live/rguganrajkumar-coder">
+    🌐 View My Full GitScore Dashboard
+  </a>
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Guganraj R
