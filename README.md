@@ -1,454 +1,490 @@
 
-<h2 align="center">🚀 My GitScore Dashboard</h2>
-
-<p align="center">
-  <b>Track my GitHub performance, coding activity, and developer growth.</b>
-</p>
-
-<p align="center">
-  <a href="https://gitscore.live/rguganrajkumar-coder">
-    <img
-      src="https://gitscore.live/api/badge/rguganrajkumar-coder?style=card&theme=dark"
-      alt="GitScore Dashboard"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://gitscore.live/rguganrajkumar-coder">
-    🌐 View My Full GitScore Dashboard
-  </a>
-</p>
 
 <div align="center">
 
-# 👋 Hi, I'm Guganraj R
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=950&height=100&lines=GUGANRAJ+R" alt="Guganraj R animated name" />
 
-### Full Stack Developer | Python Developer | Cloud Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Python+Developer;Cloud+Enthusiast;Open+Source+Contributor;Looking+for+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=850&height=45&lines=FULL+STACK+DEVELOPER;PYTHON+%7C+JAVA+DEVELOPER;CLOUD+%26+AI+ENTHUSIAST;ASPIRING+SOFTWARE+ENGINEER;BUILDING+IDEAS+INTO+REALITY" alt="Developer roles animation" />
 
 <br/>
 
-![B.E. CSE](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Student](https://img.shields.io/badge/Status-Student-00A67E?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Tiruchirappalli%2C%20Tamil%20Nadu-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/CREATIVE%20MIND-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" />
+<img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" />
+<img src="https://img.shields.io/badge/INNOVATOR-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" />
 
-<br/>
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-rguganrajkumar--coder-181717?style=for-the-badge&logo=github)](https://github.com/rguganrajkumar-coder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guganraj%20R-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/guganraj-r-468589396/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel)](https://rguganrajkumar-coder.github.io/guganraj-portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:r.guganrajkumar@gmail.com)
+<a href="https://github.com/rguganrajkumar-coder"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
+<a href="https://linkedin.com/in/guganraj-r-468589396/"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://rguganrajkumar-coder.github.io/guganraj-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" /></a>
+<a href="mailto:r.guganrajkumar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rguganrajkumar-coder&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github&theme=dark" />
+
+<br/><br/>
+
+<sub>📍 TIRUCHIRAPPALLI, INDIA &nbsp; ◈ &nbsp; 🎓 COMPUTER SCIENCE & ENGINEERING</sub>
+
+<br/><br/>
+
+
 
 </div>
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+## GITSCORE / DEVELOPER DASHBOARD
 
-Hi! I'm **Guganraj R**, a B.E. Computer Science and Engineering student at **K. Ramakrishnan College of Engineering (KRCE)**.
+### 🚀 My Coding Journey
 
-I am an **Aspiring Software Engineer | Full Stack Developer | Cloud Enthusiast | Open Source Contributor** who enjoys building practical software solutions, learning modern technologies, and solving real-world problems through programming.
+Track my GitHub performance, coding activity and developer growth.
 
-My current technical foundation includes **C, C++, Python, Java, HTML, CSS, JavaScript, SQL, Data Structures, and Cloud Computing**. I am particularly interested in **Full Stack Development, Python Development, Cloud Technologies, Database Management, and Generative AI**.
+<a href="https://gitscore.live/rguganrajkumar-coder">
+<img src="https://img.shields.io/badge/VIEW%20MY%20GITSCORE%20DASHBOARD-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
 
-I enjoy turning ideas into working projects and continuously improving my programming, problem-solving, communication, and software development skills.
+<br/>
 
-### 🎯 Career Objective
+<a href="https://gitscore.live/rguganrajkumar-coder">🌐 Open Full GitScore Dashboard ↗</a>
 
-I am currently looking for **internship opportunities** where I can:
 
-- 💻 Apply my programming and development skills to real-world projects
-- 🚀 Gain practical software engineering experience
-- 🌐 Develop scalable and user-friendly web applications
-- ☁️ Explore cloud-based technologies and deployment
-- 🤖 Learn and experiment with AI-powered applications
-- 🤝 Collaborate with developers, mentors, and professional teams
-- 🌱 Contribute to open-source projects and grow as a developer
+</div>
 
----
+## 01 — ABOUT ME
 
-## 🧑‍🎓 Education
+Hi! I'm **Guganraj R**, a Second-Year B.E. Computer Science and Engineering student at **K. Ramakrishnan College of Engineering (KRCE)**.
 
-**K. Ramakrishnan College of Engineering (KRCE)**  
-**B.E. Computer Science and Engineering**
+I'm an aspiring Software Engineer, Full Stack Developer and Cloud Enthusiast passionate about creating practical software solutions, exploring modern technologies and solving real-world problems through programming.
 
-📍 Tiruchirappalli, Tamil Nadu, India  
-🎓 Currently pursuing undergraduate studies
+I enjoy transforming ideas into working applications and continuously improving my technical foundation through hands-on projects, coding practice and independent learning.
 
----
+**MY DEVELOPER MINDSET**
 
-## 🛠️ Tech Stack
+- 💡 Learn something new every day.
+- 💻 Turn concepts into practical applications.
+- 🧠 Solve problems with logical thinking.
+- 🚀 Build projects that solve real problems.
+- 🌱 Grow through collaboration and open source.
 
-### 👨‍💻 Programming Languages
+## 02 — CAREER OBJECTIVE
 
-<p>
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=js" />
-</p>
+> To grow as a Software Engineer by applying my programming knowledge, developing practical applications, exploring modern technologies and contributing to meaningful software projects.
 
-### 🌐 Frontend Development
+| Focus | Objective |
+|:---|:---|
+| 💻 Software Engineering | Apply programming skills to real-world projects |
+| 🌐 Full Stack Development | Develop scalable, user-friendly applications |
+| 🐍 Python Development | Build practical applications and automation solutions |
+| ☁️ Cloud Technologies | Explore cloud platforms and deployment |
+| 🤖 Artificial Intelligence | Experiment with AI-powered applications |
+| 🤝 Collaboration | Learn from professional development teams |
+| 🌍 Open Source | Contribute to community-driven projects |
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
+## 03 — EDUCATION
 
-### ⚙️ Backend & Database
+<details open>
+<summary><b>🎓 K. Ramakrishnan College of Engineering</b></summary>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
+**B.E. — Computer Science and Engineering**
 
-### ☁️ Cloud, DevOps & Tools
+📍 Tiruchirappalli, Tamil Nadu, India
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+<sub>SECOND YEAR · UNDERGRADUATE STUDIES</sub>
 
-### 🧠 Core Skills
+**CGPA: 8.65**
 
-| Area | Skills |
-|---|---|
+</details>
+
+## 04 — TECHNICAL ARSENAL
+
+<div align="center">
+
+### 💻 PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
+
+### 🌐 FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+### ⚙️ BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=php,mysql,mongodb,postgres&theme=dark" />
+
+### 🧰 TOOLS & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=dark" />
+
+</div>
+
+### Core Competencies
+
+| Category | Skills |
+|:---|:---|
 | Programming | C, C++, Python, Java |
 | Web Development | HTML, CSS, JavaScript |
 | Database | SQL, MySQL, Database Design |
-| Computer Science | Data Structures & Problem Solving |
-| Cloud | Cloud Computing, AWS fundamentals |
+| Computer Science | Data Structures, OOP, Problem Solving |
+| Cloud | Cloud Computing, AWS Fundamentals |
 | AI | Generative AI, OpenAI API, Responsible AI |
 | Development Tools | Git, GitHub, VS Code |
 | Productivity | Microsoft Office |
 
----
+## 05 — FEATURED PROJECTS
 
-## 🚀 Featured Projects
+<div align="center">
 
-### ⚡ 1. Smart Power Distribution Management System
+*DESIGN. DEVELOP. TEST. IMPROVE.*
 
-**Technology:** C Programming + Data Structures
+</div>
 
-A data-structure-based system designed to manage consumers, search records efficiently, and handle power-related faults.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Core Concepts Used:**
-- 🔗 Linked List — consumer management
-- 🌳 Binary Search Tree — efficient searching and lookup
-- 📋 Queue — fault/request handling
-- 🧠 Data Structures — organized and efficient data management
+### ⚡ SMART POWER DISTRIBUTION MANAGEMENT SYSTEM
+
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES-8A2BE2?style=flat-square" />
+
+A data-structure-based electricity management system designed to manage consumers, search records and organize power-related fault requests.
+
+**Core Concepts**
+
+- 🔗 Linked List — Consumer management
+- 🌳 Binary Search Tree — Efficient searching
+- 📋 Queue — Fault/request handling
+- 🧮 Electricity billing and record management
 
 **Key Learning:** Applied fundamental data structures to a practical power-distribution management problem.
 
----
+<a href="https://github.com/rguganrajkumar-coder/Project1"><img src="https://img.shields.io/badge/VIEW%20SOURCE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
-### 💧 2. Water Tank Level Monitoring & Usage System
+</td>
+<td width="50%" valign="top">
 
-**Technology:** Python
+### 💧 WATER TANK LEVEL MONITORING & USAGE SYSTEM
 
-A Python-based system focused on monitoring water levels, controlling the motor, providing alerts, and tracking water usage.
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOMATION-16A34A?style=flat-square" />
 
-**Main Modules:**
+A Python-based system focused on monitoring water levels, controlling the motor, providing alerts and tracking water usage.
+
+**Core Modules**
+
 - 💧 Water Level Monitoring
 - ⚙️ Motor Control
 - 🖥️ Display
 - 🔔 Alert System
-- 📊 Water Usage / Data Tracking
+- 📊 Water Usage Tracking
 
 **Key Learning:** Combined Python programming with automation-oriented system logic and monitoring concepts.
 
----
+<a href="https://github.com/rguganrajkumar-coder/Project2"><img src="https://img.shields.io/badge/VIEW%20SOURCE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
-### 🍽️ 3. Intelligent Food Planner
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Technology:** Java Programming
+### 🍽️ INTELLIGENT FOOD PLANNER
 
-A Java-based project designed around intelligent food planning and organized meal management.
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA%20SWING-6E40C9?style=flat-square" />
 
-**Focus Areas:**
-- 🍎 Food planning
-- 🥗 Meal organization
-- 🧠 Logical decision-making
-- ☕ Java programming concepts
-- 👨‍💻 User-oriented application design
+A Java-based application designed to simplify daily meal planning and food management.
 
-**Key Learning:** Strengthened Java programming, object-oriented thinking, and application design skills.
+**Core Features**
 
----
+- 🍎 Daily Meal Planner
+- 🥗 Recipe discovery using available ingredients
+- 📊 Ingredient matching percentage
+- 💰 Budget validation
+- ➕ Quantity management
+- 🧾 PDF bill generation
 
-## 📜 Certifications
+**Key Learning:** Strengthened Java programming, object-oriented thinking and user-oriented application design.
 
-The certifications below are based on the certifications listed in my LinkedIn profile and the certification information I have provided.
+<a href="https://github.com/rguganrajkumar-coder/Project3"><img src="https://img.shields.io/badge/VIEW%20SOURCE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
-### 🏆 Certifications & Learning
+</td>
+<td width="50%" valign="top">
 
-- 🏅 **Tata — GenAI Powered Data Analytics Job Simulation**
-- 🍃 **MongoDB Basics for Students**
-- 🐍 **Python Essentials 1**
-- 🐍 **Python Essentials 2**
-- 🤖 **Introduction to Responsible AI**
-- ☁️ **Cloud Computing**
-- 🎤 **Presentation Skills**
-- 🧠 **be10x AI Tools**
-- 💻 **Microsoft Badges**
-- 🔐 **HP LIFE — Introduction to Cybersecurity Awareness**
+### 🌡️ ENVIBOX — SMART ENVIRONMENTAL MONITORING
 
-> 📌 I continuously update my knowledge through online courses, technical learning, and hands-on projects.
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/IOT-16A34A?style=flat-square" />
 
----
+An IoT-based temperature and humidity monitoring project using ESP32 and DHT22.
 
-## 🧠 Areas of Interest
+**Core Features**
 
-```text
-Full Stack Development       ████████████████████
-Python Development           ███████████████████
-Web Development              ███████████████████
-Cloud Computing              ████████████████
-Database Management          ███████████████
-Data Structures              ███████████████
-Generative AI                █████████████
-Open Source                  ████████████
-```
+- 🌡️ Temperature Monitoring
+- 💧 Humidity Monitoring
+- 📟 OLED Display
+- 🟢🔵🔴 Three-level LED Indication
+- 🔔 High-temperature Buzzer Alert
+- 📱 Wi-Fi Hotspot-based Monitoring
 
----
+**Key Learning:** Explored sensor integration, embedded systems and IoT monitoring.
 
-## 💼 Internship Availability
+</td>
+</tr>
+</table>
+
+## 06 — CERTIFICATIONS & LEARNING
 
 <div align="center">
 
-### 🎯 Currently Looking for Internship Opportunities
-
-**Software Engineering • Full Stack Development • Python Development • Cloud Computing**
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING-FFFFFF?style=for-the-badge&labelColor=000000" />
 
 </div>
 
-I am actively looking for internship opportunities where I can gain professional experience, contribute to real-world projects, and work with experienced developers.
+| Certification / Learning | Platform |
+|:---|:---|
+| 🏅 GenAI Powered Data Analytics Job Simulation | Tata / Forage |
+| 🍃 MongoDB Basics for Students | MongoDB |
+| 🐍 Python Essentials 1 | Cisco Networking Academy |
+| 🐍 Python Essentials 2 | Cisco Networking Academy |
+| 🤖 Introduction to Responsible AI | Online Learning |
+| ☁️ Cloud Computing | Infosys Springboard |
+| 🎤 Presentation Skills | Online Learning |
+| 🧠 AI Tools | be10x |
+| 💻 Microsoft Learn Badges and Trophies | Microsoft |
+| 🔐 Introduction to Cybersecurity Awareness | HP LIFE |
+| 🌐 Web Development Basics | IBM |
 
-### I'm interested in:
+## 07 — AREAS OF INTEREST
 
-- 💻 Software Engineering Internships
-- 🌐 Full Stack Development Internships
-- 🐍 Python Development Internships
-- ☁️ Cloud / Cloud Engineering Internships
-- 🗄️ Database / Backend Development Internships
-- 🤖 AI / Generative AI learning opportunities
-- 🌍 Open Source Contributions
+| Domain | Interest |
+|:---|:---|
+| Full Stack Development | ████████████████████ |
+| Python Development | ███████████████████ |
+| Web Development | ███████████████████ |
+| Cloud Computing | ████████████████ |
+| Database Management | ███████████████ |
+| Data Structures | ███████████████ |
+| Generative AI | █████████████ |
+| Open Source | ████████████ |
 
-**Open to:** On-site • Hybrid • Remote opportunities
+<sub>These bars represent areas of interest, not measured proficiency.</sub>
 
----
-
-## 💻 Coding Profiles
+## 08 — INTERNSHIP AVAILABILITY
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Guganraj2008-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Guganraj2008/)
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-FFFFFF?style=for-the-badge&logo=target&logoColor=000000&labelColor=000000" />
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-r__guganrajkumar-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/r_guganrajkumar)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-gugan__cc__coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gugan_cc_coder)
+### READY TO LEARN · READY TO CONTRIBUTE · READY TO BUILD
 
 </div>
 
----
+I'm actively looking for internship opportunities where I can gain professional experience, contribute to real-world projects and work with experienced developers.
 
-## 📊 GitHub Analytics
+**Preferred Domains**
+
+- 💻 Software Engineering
+- 🌐 Full Stack Development
+- 🐍 Python Development
+- ☁️ Cloud / Cloud Engineering
+- 🗄️ Backend & Database Development
+- 🤖 AI / Generative AI
+
+**Work Preferences:** Remote · Hybrid · On-site
+
+## 09 — CODING PROFILES
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rguganrajkumar-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<a href="https://leetcode.com/u/Guganraj2008/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.hackerrank.com/profile/r_guganrajkumar"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+<a href="https://www.codechef.com/users/gugan_cc_coder"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rguganrajkumar-coder&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+## 10 — GITHUB ANALYTICS
+
+<div align="center">
+
+### MY DEVELOPMENT ACTIVITY
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rguganrajkumar-coder&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rguganrajkumar-coder&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=F0B429&text_color=E5E5E5&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rguganrajkumar-coder&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E5E5E5" />
+
+<br/><br/>
+
+<img width="82%" src="https://streak-stats.demolab.com?user=rguganrajkumar-coder&hide_border=true&background=000000&stroke=FFFFFF&ring=F0B429&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## 11 — GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rguganrajkumar-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=rguganrajkumar-coder&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
----
-
-## 📈 Contribution Activity
+## 12 — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rguganrajkumar-coder&theme=tokyo-night&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rguganrajkumar-coder&bg_color=000000&color=FFFFFF&line=F0B429&point=FF6B35&area=true&hide_border=true" />
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rguganrajkumar-coder/rguganrajkumar-coder/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-> If the contribution-snake workflow is not configured yet, this image will appear after the required GitHub Action is added to the profile repository.
-
----
-
-## 🌱 Currently Learning
+## 13 — CURRENTLY LEARNING
 
 ```yaml
 learning:
-  - Advanced Python Development
-  - Full Stack Web Development
-  - Java Programming
-  - Cloud Computing
-  - Database Management
-  - Generative AI
-  - OpenAI API
-  - Data Structures & Algorithms
-  - Git & GitHub
-  - Open Source Development
+  programming:
+    - Advanced Python Development
+    - Java Programming
+    - Data Structures & Algorithms
+
+  development:
+    - Full Stack Web Development
+    - Backend Development
+    - Database Management
+
+  emerging_technologies:
+    - Cloud Computing
+    - Generative AI
+    - OpenAI API
+    - Responsible AI
+
+  developer_growth:
+    - Git & GitHub
+    - Open Source Development
+    - Software Engineering Practices
 ```
 
----
+## 14 — CURRENT FOCUS
 
-## 🔭 Current Focus
+<table>
+<tr>
+<td width="33%" valign="top">
 
-```text
-Building:
-  → Practical software projects
-  → Full stack development skills
-  → Python-based applications
-  → Cloud knowledge
-  → Portfolio and GitHub presence
+### 🏗️ BUILDING
 
-Improving:
-  → Problem solving
-  → Data Structures
-  → Database design
-  → Programming fundamentals
-  → Communication & teamwork
+- Practical software projects
+- Full Stack applications
+- Python-based solutions
+- Portfolio improvements
+- Real-world applications
 
-Exploring:
-  → Generative AI
-  → OpenAI API
-  → Cloud technologies
-  → Open source
-```
+</td>
+<td width="33%" valign="top">
 
----
+### 📈 IMPROVING
 
-## 🤝 Open Source
+- Problem solving
+- Data Structures
+- Database design
+- Programming fundamentals
+- Communication and teamwork
 
-I am interested in contributing to open-source projects and learning from the developer community.
+</td>
+<td width="33%" valign="top">
 
-### Areas I'd like to contribute to:
+### 🔭 EXPLORING
 
-- 🌐 Web Development
-- 🐍 Python Projects
-- ☁️ Cloud Projects
-- 🗄️ Database Projects
-- 🤖 AI / GenAI Projects
-- 🧰 Developer Tools
-- 📚 Documentation & Beginner-Friendly Projects
+- Generative AI
+- OpenAI API
+- Cloud technologies
+- Open source
+- Modern developer tools
 
----
+</td>
+</tr>
+</table>
 
-## 💡 What I Bring
+## 15 — OPEN SOURCE
 
-- 🧠 Strong willingness to learn
-- 💻 Hands-on programming experience through projects
-- 🧩 Problem-solving mindset
-- 🌐 Interest in full stack development
-- 🐍 Python programming foundation
-- ☁️ Growing cloud knowledge
-- 🤝 Teamwork and communication
-- 🚀 Passion for continuous improvement
+I'm interested in contributing to open-source projects, collaborating with developers and learning from the global developer community.
 
----
+**Areas I'd love to contribute to:**
 
-## 🎯 2026 Goals
+`Web Development` · `Python` · `Cloud` · `Databases` · `AI / GenAI` · `Developer Tools` · `Documentation`
 
-- [ ] Secure a software development internship
-- [ ] Build more full-stack projects
-- [ ] Strengthen Python and Java
-- [ ] Improve Data Structures & Algorithms
-- [ ] Learn cloud deployment
-- [ ] Make meaningful open-source contributions
-- [ ] Improve GitHub consistency
-- [ ] Build production-style projects
-- [ ] Expand my professional network
-- [ ] Continue earning relevant technical certifications
+## 16 — WHAT I BRING
 
----
+| Strength | My Approach |
+|:---|:---|
+| 🧠 Learning Mindset | Willingness to learn new technologies |
+| 💻 Practical Experience | Hands-on programming through projects |
+| 🧩 Problem Solving | Logical thinking and algorithmic approach |
+| 🌐 Development Interest | Full Stack and application development |
+| 🐍 Programming Foundation | C, C++, Python and Java |
+| ☁️ Technology Exploration | Growing knowledge of cloud and AI |
+| 🤝 Collaboration | Teamwork and communication |
+| 🚀 Continuous Improvement | Commitment to improving every day |
 
-## 🌐 Connect With Me
+## 17 — 2026 GOALS
 
 <div align="center">
 
-### Let's Connect & Build Something Great! 🚀
-
-[![GitHub](https://img.shields.io/badge/GitHub-rguganrajkumar--coder-181717?style=for-the-badge&logo=github)](https://github.com/rguganrajkumar-coder)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guganraj%20R-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/guganraj-r-468589396/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rguganrajkumar--coder.github.io-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rguganrajkumar-coder.github.io/guganraj-portfolio/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-r.guganrajkumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.guganrajkumar@gmail.com)
+### THINK BIG. BUILD BETTER. KEEP GROWING.
 
 </div>
 
+- [ ] Secure a Software Development Internship
+- [ ] Build more Full Stack Projects
+- [ ] Strengthen Python and Java
+- [ ] Improve Data Structures & Algorithms
+- [ ] Learn Cloud Deployment
+- [ ] Make meaningful Open Source Contributions
+- [ ] Improve GitHub Consistency
+- [ ] Build Production-Style Applications
+- [ ] Expand my Professional Network
+- [ ] Earn Relevant Technical Certifications
+
 ---
 
-## 📞 Contact
+<div align="center">
 
-| | Details |
-|---|---|
+# LET'S CONNECT
+
+### Let's create something meaningful together.
+
+<br/>
+
+<a href="https://github.com/rguganrajkumar-coder"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
+<a href="https://linkedin.com/in/guganraj-r-468589396/"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://rguganrajkumar-coder.github.io/guganraj-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" /></a>
+<a href="mailto:r.guganrajkumar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+
+<br/><br/>
+
+### CONTACT INFORMATION
+
+| Details | Information |
+|:---|:---|
 | 👤 Name | Guganraj R |
 | 🎓 Education | B.E. Computer Science and Engineering |
 | 🏫 College | K. Ramakrishnan College of Engineering |
 | 📍 Location | Tiruchirappalli, Tamil Nadu, India |
 | 💼 Status | Student / Open to Internships |
 | 📧 Email | r.guganrajkumar@gmail.com |
-| 📱 Phone | +91 93424 68636 |
 
----
+<br/><br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&height=50&lines=CODE.+LEARN.+BUILD.+CONTRIBUTE.+GROW.;DREAM+BIG.+BUILD+SMART.+STAY+CURIOUS.;THE+JOURNEY+NEVER+STOPS." />
 
-### ⭐ If you find my projects interesting, consider giving them a star!
+<br/><br/>
 
-### 💻 Code • Learn • Build • Contribute • Grow 🚀
-
-<br/>
-
-**Thanks for visiting my GitHub profile!**
+<img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<sub>⭐ IF YOU LIKE MY PROJECTS, CONSIDER GIVING THEM A STAR!</sub>
+
+<br/><br/>
+
+<sub>CRAFTED WITH PASSION · POWERED BY CURIOSITY · BUILT WITH CODE</sub>
 
 </div>
