@@ -212,7 +212,7 @@ A Java-based application designed to simplify daily meal planning and food manag
 </td>
 <td width="50%" valign="top">
 
-### 🌡️ ENVIGUARD — SMART ENVIRONMENTAL MONITORING
+### 🌡️ ENVIGUARD-X AI — SMART ENVIRONMENTAL MONITORING
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/IOT-16A34A?style=flat-square" />
